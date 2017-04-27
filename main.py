@@ -5,7 +5,7 @@ from __future__ import print_function
 |--------------------------------------------------------------------------
 |
 | 	  Author	|	Victor Motha
-|   Copyright	|	2017
+|   	Copyright	|	2017
 | 	Objective	|	Learning how to engage new twitter followers
 | 	 License	|	MIT
 |
