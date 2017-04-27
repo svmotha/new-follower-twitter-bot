@@ -1,5 +1,5 @@
 # New Follower Twitter Bot | AWS Lambda + DynamoDB
-A simple and fun way to learn how to use AWS Lambda and DynamoDB to host a twitter bot that sends direct messages to all your new twitter followers.
+A simple, fun, and of course **free** :relieved: way to learn how to use AWS Lambda and DynamoDB to host a twitter bot that sends direct messages to all your new twitter followers.
 
 ## Contents
 
