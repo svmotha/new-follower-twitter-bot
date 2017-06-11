@@ -40,7 +40,7 @@ class apiConnect():
 		self.__dict__.update(kwargs)
 
 	# Authenticate user credentials and give access to twitter API
-	def authentification(self):
+	def authentication(self):
 		# Use user keys
 		CONSUMER_KEY = keys['consumer_key']
 		CONSUMER_SECRET = keys['consumer_secret']

@@ -47,7 +47,7 @@ import boto3
 |--------------------------------------------------------------------------
 '''
 def handler(event, context):
-	api = apiConnect().authentification()
+	api = apiConnect().authentication()
 	new_followers = api.followers()
 	newDM = variables['direct_message_text']
 
